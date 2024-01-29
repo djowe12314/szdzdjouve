@@ -1,0 +1,39 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+ul{
+    list-style-type: none;
+    padding: 0px;
+    text-align: center;
+}
+body{
+    background-color: aquamarine;
+}
+ul li a:hover{
+    background-color: rgba(95, 147, 196, 0.295)
+}
+ul li{
+    float: left;
+}
+ul li a{
+    display: block;
+    text-decoration: none;
+    color: rgb(96, 89, 196);
+    width: 250px;
+    height: 60px;
+    text-align: center;
+    line-height: 60px;
+}
+nav{
+    width: 100%;
+    background-color: aqua;
+}
+.wrapper{
+    margin: auto;
+    width: 1000px;
+    height: 60px;
+}
+main{
+    background-color: aliceblue;
+}
